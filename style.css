@@ -1,4 +1,4 @@
-/* Basic page styling */
+
 * {
     box-sizing: border-box;
 }
@@ -10,7 +10,7 @@ body {
     padding: 30px 15px;
 }
 
-/* Form box */
+
 .form-container {
     background-color: white;
     width: 100%;
@@ -33,7 +33,7 @@ p {
     margin-bottom: 25px;
 }
 
-/* Form labels and fields */
+
 label {
     display: block;
     margin-top: 15px;
@@ -59,7 +59,7 @@ textarea:focus {
     border-color: #2878c7;
 }
 
-/* Submit button */
+
 button {
     width: 100%;
     padding: 12px;
@@ -76,7 +76,7 @@ button:hover {
     background-color: #1b5f9e;
 }
 
-/* Small-screen adjustment */
+
 @media (max-width: 600px) {
     .form-container {
         padding: 18px;
